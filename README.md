@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tadas Bruzas
+- 👋 Hi, I’m Tadas Bruzas from Lithuania.
 - 👀 I’m interested in HTML, CSS, JavaScript, C, C++.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on web development.
