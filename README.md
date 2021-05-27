@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tadas Bruzas from Lithuania.
 - 👀 I’m interested in HTML, CSS, JavaScript, C, C++.
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me tadasbruzas91@gmail.com
 
